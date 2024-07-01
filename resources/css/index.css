@@ -1,0 +1,43 @@
+* {
+  /* border: solid 2px purple; */
+  font-family: Helvetica, sans-serif;
+}
+header {
+  background-image: url('/resources/img/tiles.webp');
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  width: 100%
+}
+
+h1 {
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  margin: 0;
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+  color:white;
+  padding-left: 5%
+}
+
+span {
+  font-weight: bold;
+  color: blue;
+}
+
+#titleBrush {
+  background-color: mediumspringgreen;
+}
+
+#titleFrames {
+  background-color: lightcoral;
+}
+
+#titlePaint {
+  background-color: lightskyblue;
+}
