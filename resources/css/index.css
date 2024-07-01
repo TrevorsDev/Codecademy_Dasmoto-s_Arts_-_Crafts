@@ -11,6 +11,10 @@ header {
   width: 100%
 }
 
+main {
+margin-left: 1%;
+}
+
 h1 {
   font-size: 100px;
   font-weight: bold;
